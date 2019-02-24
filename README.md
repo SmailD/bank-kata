@@ -1,5 +1,5 @@
-Bank account kata
-=================
+Bank account kata from Sandro Mancuso
+=====================================
 
 Think of your personal bank account experience
 When in doubt, go for the simplest solution
